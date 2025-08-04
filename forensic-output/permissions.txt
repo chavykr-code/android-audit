@@ -1,0 +1,212 @@
+Dangerous Permissions:
+
+group:com.sec.enterprise.permission-group.mdm
+
+group:com.google.android.gms.permission.CAR_INFORMATION
+  permission:com.google.android.gms.permission.CAR_VENDOR_EXTENSION
+  permission:com.google.android.gms.permission.CAR_MILEAGE
+  permission:com.google.android.gms.permission.CAR_FUEL
+
+group:android.permission-group.CONTACTS
+
+group:android.permission-group.PHONE
+
+group:android.permission-group.CALENDAR
+
+group:android.permission-group.CALL_LOG
+
+group:android.permission-group.CAMERA
+
+group:us.zoom.videomeetings.permission-group.ZOOM_MEETING_NOTIFICATION
+
+group:us.zoom.videomeetings.permission-group.ipc
+
+group:android.permission-group.HEALTH
+  permission:android.permission.health.READ_RESTING_HEART_RATE
+  permission:android.permission.health.WRITE_BASAL_METABOLIC_RATE
+  permission:android.permission.health.WRITE_HEART_RATE
+  permission:android.permission.health.READ_ELEVATION_GAINED
+  permission:android.permission.health.READ_MEDICAL_DATA_PERSONAL_DETAILS
+  permission:android.permission.health.READ_MEDICAL_DATA_CONDITIONS
+  permission:android.permission.health.READ_NICOTINE_INTAKE
+  permission:android.permission.health.WRITE_POWER
+  permission:android.permission.health.WRITE_SLEEP
+  permission:android.permission.health.WRITE_SPEED
+  permission:android.permission.health.WRITE_STEPS
+  permission:android.permission.health.READ_ACTIVE_CALORIES_BURNED
+  permission:android.permission.health.READ_BASAL_BODY_TEMPERATURE
+  permission:android.permission.health.READ_HEART_RATE_VARIABILITY
+  permission:android.permission.health.READ_LEAN_BODY_MASS
+  permission:android.permission.health.WRITE_INTERMENSTRUAL_BLEEDING
+  permission:android.permission.health.WRITE_OXYGEN_SATURATION
+  permission:android.permission.health.READ_OXYGEN_SATURATION
+  permission:android.permission.health.READ_EXERCISE_ROUTES
+  permission:android.permission.health.READ_MEDICAL_DATA_SOCIAL_HISTORY
+  permission:android.permission.health.WRITE_SKIN_TEMPERATURE
+  permission:android.permission.health.WRITE_NICOTINE_INTAKE
+  permission:android.permission.health.WRITE_MINDFULNESS
+  permission:android.permission.health.READ_HYDRATION
+  permission:android.permission.health.READ_HEALTH_DATA_HISTORY
+  permission:android.permission.health.WRITE_WHEELCHAIR_PUSHES
+  permission:android.permission.health.READ_MEDICAL_DATA_LABORATORY_RESULTS
+  permission:android.permission.health.READ_WHEELCHAIR_PUSHES
+  permission:android.permission.health.READ_MINDFULNESS
+  permission:android.permission.health.WRITE_CERVICAL_MUCUS
+  permission:android.permission.health.WRITE_DISTANCE
+  permission:android.permission.health.READ_SEXUAL_ACTIVITY
+  permission:android.permission.health.READ_MEDICAL_DATA_PROCEDURES
+  permission:android.permission.health.READ_DISTANCE
+  permission:android.permission.health.WRITE_BLOOD_GLUCOSE
+  permission:android.permission.health.READ_MEDICAL_DATA_VACCINES
+  permission:android.permission.health.WRITE_FLOORS_CLIMBED
+  permission:android.permission.health.WRITE_HEIGHT
+  permission:android.permission.health.READ_TOTAL_CALORIES_BURNED
+  permission:android.permission.health.READ_BODY_WATER_MASS
+  permission:android.permission.health.WRITE_MENSTRUATION
+  permission:android.permission.health.READ_NUTRITION
+  permission:android.permission.health.WRITE_BLOOD_PRESSURE
+  permission:android.permission.health.WRITE_BODY_TEMPERATURE
+  permission:android.permission.health.WRITE_PLANNED_EXERCISE
+  permission:android.permission.health.WRITE_WEIGHT
+  permission:android.permission.health.READ_VO2_MAX
+  permission:android.permission.health.WRITE_LEAN_BODY_MASS
+  permission:android.permission.health.WRITE_SEXUAL_ACTIVITY
+  permission:android.permission.health.READ_MEDICAL_DATA_ALLERGIES_INTOLERANCES
+  permission:android.permission.health.READ_MEDICAL_DATA_PREGNANCY
+  permission:android.permission.health.WRITE_HYDRATION
+  permission:android.permission.health.WRITE_BODY_WATER_MASS
+  permission:android.permission.health.READ_SKIN_TEMPERATURE
+  permission:android.permission.health.READ_OVULATION_TEST
+  permission:android.permission.health.READ_MEDICAL_DATA_PRACTITIONER_DETAILS
+  permission:android.permission.health.WRITE_MEDICAL_DATA
+  permission:android.permission.health.WRITE_ACTIVITY_INTENSITY
+  permission:android.permission.health.WRITE_TOTAL_CALORIES_BURNED
+  permission:android.permission.health.WRITE_RESPIRATORY_RATE
+  permission:android.permission.health.READ_BASAL_METABOLIC_RATE
+  permission:android.permission.health.WRITE_BODY_FAT
+  permission:android.permission.health.READ_HEALTH_DATA_IN_BACKGROUND
+  permission:android.permission.health.WRITE_EXERCISE_ROUTE
+  permission:android.permission.health.WRITE_ELEVATION_GAINED
+  permission:android.permission.health.WRITE_NUTRITION
+  permission:android.permission.health.READ_BONE_MASS
+  permission:android.permission.health.WRITE_ACTIVE_CALORIES_BURNED
+  permission:android.permission.health.WRITE_BASAL_BODY_TEMPERATURE
+  permission:android.permission.health.READ_BODY_FAT
+  permission:android.permission.health.WRITE_HEART_RATE_VARIABILITY
+  permission:android.permission.health.WRITE_RESTING_HEART_RATE
+  permission:android.permission.health.WRITE_EXERCISE
+  permission:android.permission.health.READ_EXERCISE
+  permission:android.permission.health.READ_INTERMENSTRUAL_BLEEDING
+  permission:android.permission.health.READ_POWER
+  permission:android.permission.health.READ_SLEEP
+  permission:android.permission.health.READ_SPEED
+  permission:android.permission.health.READ_STEPS
+  permission:android.permission.health.READ_BODY_TEMPERATURE
+  permission:android.permission.health.READ_PLANNED_EXERCISE
+  permission:android.permission.health.READ_MEDICAL_DATA_MEDICATIONS
+  permission:android.permission.health.READ_MEDICAL_DATA_VISITS
+  permission:android.permission.health.READ_HEIGHT
+  permission:android.permission.health.WRITE_VO2_MAX
+  permission:android.permission.health.READ_ACTIVITY_INTENSITY
+  permission:android.permission.health.READ_CERVICAL_MUCUS
+  permission:android.permission.health.READ_BLOOD_GLUCOSE
+  permission:android.permission.health.READ_MENSTRUATION
+  permission:android.permission.health.READ_MEDICAL_DATA_VITAL_SIGNS
+  permission:android.permission.health.READ_FLOORS_CLIMBED
+  permission:android.permission.health.READ_WEIGHT
+  permission:android.permission.health.READ_BLOOD_PRESSURE
+  permission:android.permission.health.READ_HEART_RATE
+  permission:android.permission.health.WRITE_BONE_MASS
+  permission:android.permission.health.READ_RESPIRATORY_RATE
+  permission:android.permission.health.WRITE_OVULATION_TEST
+
+group:android.permission-group.READ_MEDIA_VISUAL
+
+group:android.permission-group.READ_MEDIA_AURAL
+
+group:android.permission-group.UNDEFINED
+  permission:android.permission.READ_SMS
+  permission:android.permission.READ_CALENDAR
+  permission:android.permission.POST_NOTIFICATIONS
+  permission:android.permission.READ_CALL_LOG
+  permission:android.permission.ACCESS_FINE_LOCATION
+  permission:android.permission.ANSWER_PHONE_CALLS
+  permission:android.permission.RECEIVE_WAP_PUSH
+  permission:android.permission.BODY_SENSORS
+  permission:android.permission.READ_PHONE_NUMBERS
+  permission:android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+  permission:android.permission.NEARBY_WIFI_DEVICES
+  permission:android.permission.RECEIVE_MMS
+  permission:android.permission.RECEIVE_SMS
+  permission:android.permission.BLUETOOTH_CONNECT
+  permission:android.permission.READ_EXTERNAL_STORAGE
+  permission:android.permission.ACCESS_COARSE_LOCATION
+  permission:android.permission.READ_PHONE_STATE
+  permission:android.permission.SEND_SMS
+  permission:android.permission.CALL_PHONE
+  permission:android.permission.READ_MEDIA_IMAGES
+  permission:android.permission.WRITE_CONTACTS
+  permission:android.permission.BODY_SENSORS_BACKGROUND
+  permission:android.permission.ACCEPT_HANDOVER
+  permission:android.permission.CAMERA
+  permission:android.permission.WRITE_CALENDAR
+  permission:android.permission.WRITE_CALL_LOG
+  permission:android.permission.READ_MEDIA_AUDIO
+  permission:android.permission.READ_MEDIA_VIDEO
+  permission:android.permission.USE_SIP
+  permission:android.permission.PROCESS_OUTGOING_CALLS
+  permission:android.permission.READ_CELL_BROADCASTS
+  permission:android.permission.BLUETOOTH_ADVERTISE
+  permission:android.permission.GET_ACCOUNTS
+  permission:android.permission.WRITE_EXTERNAL_STORAGE
+  permission:android.permission.UWB_RANGING
+  permission:android.permission.ACTIVITY_RECOGNITION
+  permission:android.permission.RECORD_AUDIO
+  permission:android.permission.READ_CONTACTS
+  permission:android.permission.ACCESS_BACKGROUND_LOCATION
+  permission:android.permission.BLUETOOTH_SCAN
+  permission:android.permission.ACCESS_MEDIA_LOCATION
+  permission:com.android.voicemail.permission.ADD_VOICEMAIL
+
+group:android.permission-group.ACTIVITY_RECOGNITION
+
+group:com.samsung.android.knox.api-access-control-group
+
+group:android.permission-group.SENSORS
+
+group:com.sec.internal.permission-group.ANDROID_EXTENSION
+
+group:android.permission-group.PERSONAL_INFO
+
+group:android.permission-group.LOCATION
+  permission:com.google.android.gms.permission.CAR_SPEED
+
+group:android.permission-group.STORAGE
+
+group:com.samsung.android.spay.permission-group.SPAY_SHARE
+
+group:us.zoom.videomeetings.permission-group.ZOOM_TOOLS
+
+group:moe.shizuku.manager.permission-group.API
+  permission:moe.shizuku.manager.permission.API_V23
+
+group:android.permission-group.NOTIFICATIONS
+
+group:android.permission-group.MICROPHONE
+
+group:android.permission-group.NEARBY_DEVICES
+
+group:android.permission-group.SMS
+  permission:com.google.android.apps.messaging.EXTERNAL_MESSAGING_API
+
+ungrouped:
+  permission:com.samsung.android.weather.permission.READ_DANGEROUS_PROVIDER
+  permission:com.tmobile.echolocate.permission.GENERIC_TMOBILE_APPS_PROVIDER
+  permission:com.tmobile.echolocate.permission.RFI_PROVIDER
+  permission:com.samsung.android.knox.permission.KNOX_NDA_AI_RT
+  permission:com.google.android.gm.permission.READ_CONTENT_PROVIDER
+  permission:com.samsung.android.knox.permission.KNOX_NDA_PERIPHERAL_RT
+  permission:com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA
+  permission:com.samsung.android.knox.permission.KNOX_NDA_DEVICE_SETTINGS_RT
+  permission:com.samsung.android.knox.permission.KNOX_NDA_DATA_ANALYTICS_RT
+  permission:com.nxp.mifare2go.aidl.permission
